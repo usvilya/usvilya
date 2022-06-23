@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @usvilya
+- 👋 Hi, I’m Ilya Usvyatsky
 - 👀 I’m interested in database security and compliance
 - 🌱 I’m currently learning Redshift Audit Logs
 - 💞️ I’m looking to collaborate on ML and AI
